@@ -4,7 +4,7 @@ description: This is a breakdown of how to mod with Wwise
 published: true
 date: 2024-05-22T19:17:15.558Z
 tags: unreal
-editor: markdown
+editor: asciidoc
 dateCreated: 2024-01-23T16:04:53.429Z
 ---
 

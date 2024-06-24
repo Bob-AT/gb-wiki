@@ -4,7 +4,7 @@ description:
 published: true
 date: 2024-06-21T10:46:05.030Z
 tags: 
-editor: markdown
+editor: asciidoc
 dateCreated: 2024-06-21T10:35:30.148Z
 ---
 

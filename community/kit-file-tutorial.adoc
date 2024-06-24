@@ -4,7 +4,7 @@ description: Kit file tutorial by Bob/AT
 published: true
 date: 2024-05-23T15:38:28.167Z
 tags: 
-editor: markdown
+editor: asciidoc
 dateCreated: 2024-05-23T15:12:26.347Z
 ---
 
